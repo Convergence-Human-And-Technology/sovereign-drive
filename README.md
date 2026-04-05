@@ -1,3 +1,5 @@
+![Convergence Cover](https://raw.githubusercontent.com/Convergence-Human-And-Technology/sovereign-drive/main/convergence_cover_aquatic.jpg)
+
 # Sovereign Drive
 
 > **Legally accountable AI for autonomous vehicle operation**  
